@@ -10,5 +10,6 @@
   { "_comment": "Heino",                            "hero_id": 563, "skin_id": 2,  "fix_skin_id": 2 },
   { "_comment": "Billow Thiên Tướng",               "hero_id": 599, "skin_id": 1,  "fix_skin_id": 2 },
   { "_comment": "Billow T.Rex",                     "hero_id": 599, "skin_id": 2,  "fix_skin_id": 2 },
-  { "_comment": "Billow Invincible T-Rex",          "hero_id": 599, "skin_id": 3,  "fix_skin_id": 2 }
+  { "_comment": "Billow Invincible T-Rex",          "hero_id": 599, "skin_id": 3,  "fix_skin_id": 2 },
+  { "_comment": "Edras skin 1",                     "hero_id": 595, "skin_id": 1,  "fix_skin_id": 0 }
 ]
