@@ -1,0 +1,15 @@
+[
+  { "_comment": "Gildur Okarun",                    "hero_id": 108, "skin_id": 12, "fix_skin_id": 2 },
+  { "_comment": "Veera My Melody's Love",           "hero_id": 109, "skin_id": 17, "fix_skin_id": 2 },
+  { "_comment": "Omega",                            "hero_id": 114, "skin_id": 2,  "fix_skin_id": 2 },
+  { "_comment": "Azzen'Ka",                         "hero_id": 127, "skin_id": 2,  "fix_skin_id": 2 },
+  { "_comment": "Hayate",                           "hero_id": 132, "skin_id": 15, "fix_skin_id": 2 },
+  { "_comment": "Skud",                             "hero_id": 134, "skin_id": 2,  "fix_skin_id": 2 },
+  { "_comment": "Lumburr",                          "hero_id": 168, "skin_id": 2,  "fix_skin_id": 2 },
+  { "_comment": "Helen",                            "hero_id": 184, "skin_id": 5,  "fix_skin_id": 2 },
+  { "_comment": "Heino",                            "hero_id": 563, "skin_id": 2,  "fix_skin_id": 2 },
+  { "_comment": "Billow Thiên Tướng",               "hero_id": 599, "skin_id": 1,  "fix_skin_id": 2 },
+  { "_comment": "Billow T.Rex",                     "hero_id": 599, "skin_id": 2,  "fix_skin_id": 2 },
+  { "_comment": "Billow Invincible T-Rex",          "hero_id": 599, "skin_id": 3,  "fix_skin_id": 2 },
+  { "_comment": "Edras 1",                          "hero_id": 595, "skin_id": 1,  "fix_skin_id": 0 }
+]
